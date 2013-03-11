@@ -1,4 +1,4 @@
 LazarusWebService
 =================
 
-The Web Service project for Lazarus, including a GUI for the info presentation.
+The Web Service project for Lazarus, including a GUI and JDBC integration.
